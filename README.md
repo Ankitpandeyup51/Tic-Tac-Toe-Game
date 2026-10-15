@@ -35,9 +35,9 @@ Technology	Description :
 ⚡ JavaScript	Powers the game logic and interactions.
 
 
-🎯 How to Play
 
-=====================================================================================
+🎯 How to Play
+===============================
 
 Player X starts the game.
 Players take turns selecting an empty cell.
