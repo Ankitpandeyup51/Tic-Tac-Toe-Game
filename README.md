@@ -34,26 +34,6 @@ Technology	Description :
 
 ⚡ JavaScript	Powers the game logic and interactions.
 
-📥 Getting Started
-
-
-Follow these steps to run the game locally.
-
-1. Clone the repository
-
-git clone https://github.com/Ankitpandeyup51/Tic-Tac-Toe-Game.git
-
-
-2. Navigate to the project folder
-
-
-cd Tic-Tac-Toe-Game
-
-
-3. Launch the game
-
-
-Open index.html in your web browser and start playing!
 
 🎯 How to Play
 
@@ -109,25 +89,24 @@ If you enjoyed this project, don't forget to give it a ⭐ on GitHub. Your suppo
 Thanks for visiting! Happy Gaming! 🎮
 
 
-#🎮 Tic Tac Toe Game 
+🎮 Tic Tac Toe Game 
+============================================================
 
-==============================================================================
-
-<img width="959" height="505" alt="Screenshot 2026-10-15 234637" 
-  src="https://github.com/user-attachments/assets/4863f72d-f110
-  -4ae3-bc89-4d8bd8ef05a6" />
+<img width="959" height="505" alt="Screenshot 2026-10-15 234637" src="https://github.com/user-attachments/assets/63edbad4-9182-43a3-90bb-90b99fc5c279" />
 
 
-#  🎮 Tic Tac Toe Game Result
 
-  ============================================================================
-  <img width="958" height="512" alt="Screenshot 2026-10-15 234424" 
-    src="https://github.com/user-attachments/assets/0749284c-4d6f
-    -4c91-aad6-55d5590dce88" />
+🎮 Tic Tac Toe Game Result
+========================================================
 
-  <img width="959" height="508" alt="Screenshot 2026-10-15 234612" 
-    src="https://github.com/user-attachments/assets/f8d652be-e658-4bc
-    f-85a5-55cd4d56a908" />
+<img width="958" height="512" alt="Screenshot 2026-10-15 234424" src="https://github.com/user-attachments/assets/b3c6f83b-8198-4b2e-9b44-8a8912e3f627" />
+
+
+<img width="959" height="508" alt="Screenshot 2026-10-15 234612" src="https://github.com/user-attachments/assets/908a22f5-69f8-4699-92ab-f999c4fb60df" />
+
+
+
+
 
 
 
