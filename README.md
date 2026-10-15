@@ -35,7 +35,7 @@ Technology	Description :
 ⚡ JavaScript	Powers the game logic and interactions.
 
 📥 Getting Started
-===========================================================================================================
+
 
 Follow these steps to run the game locally.
 
@@ -45,13 +45,13 @@ git clone https://github.com/Ankitpandeyup51/Tic-Tac-Toe-Game.git
 
 
 2. Navigate to the project folder
-================================================================================================
+
 
 cd Tic-Tac-Toe-Game
 
 
 3. Launch the game
-===============================================================================================
+
 
 Open index.html in your web browser and start playing!
 
