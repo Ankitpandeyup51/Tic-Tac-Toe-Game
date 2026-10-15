@@ -35,12 +35,11 @@ Technology	Description :
 ⚡ JavaScript	Powers the game logic and interactions.
 
 📥 Getting Started
-============================================================================================================================
+===========================================================================================================
 
 Follow these steps to run the game locally.
 
 1. Clone the repository
-===============================================================================================
 
 git clone https://github.com/Ankitpandeyup51/Tic-Tac-Toe-Game.git
 
@@ -58,7 +57,7 @@ Open index.html in your web browser and start playing!
 
 🎯 How to Play
 
-===============================================================================================================
+=====================================================================================
 
 Player X starts the game.
 Players take turns selecting an empty cell.
@@ -67,7 +66,7 @@ If all cells are filled without a winner, the game ends in a draw.
 Use the restart option to play again.
 
 📂 Project Structure
-=================================================================================================================
+================================================================
 
 Tic-Tac-Toe-Game/
 
@@ -81,7 +80,7 @@ Tic-Tac-Toe-Game/
 
 
 🔮 Future Improvements
-==========================================================================================================================
+====================================
 
 🤖 Single-player mode with AI
 
@@ -92,7 +91,7 @@ Tic-Tac-Toe-Game/
 📱 Enhanced mobile responsiveness
 
 👨‍💻 Author
-=========================================================================================================================
+======================================================================================
 
 Ankit Pandey
 
@@ -101,7 +100,7 @@ Ankit Pandey
 🎮 Project Repository: Tic Tac Toe Game
 
 🤝 Support
-===========================================================================================================================
+====================================================================================
 
 If you enjoyed this project, don't forget to give it a ⭐ on GitHub. Your support means a lot!
 
@@ -111,6 +110,7 @@ Thanks for visiting! Happy Gaming! 🎮
 
 
 #🎮 Tic Tac Toe Game 
+
 ==============================================================================
 
 <img width="959" height="505" alt="Screenshot 2026-10-15 234637" 
@@ -119,6 +119,7 @@ Thanks for visiting! Happy Gaming! 🎮
 
 
 #  🎮 Tic Tac Toe Game Result
+
   ============================================================================
   <img width="958" height="512" alt="Screenshot 2026-10-15 234424" 
     src="https://github.com/user-attachments/assets/0749284c-4d6f
